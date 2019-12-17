@@ -82,4 +82,16 @@ main{
 .box:last-child{
   margin-right: auto;
 }
+
+.img1{
+  height: 170px;
+}
+
+.img2{
+  height: 170px;
+}
+
+.img3{
+  height: 170px;
+}
 }
